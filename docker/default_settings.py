@@ -75,7 +75,7 @@ SCRAPY_PROJECTS_DIR = '/code/scrapydweb'
 SCRAPYD_SERVERS = [
     # '127.0.0.1:6800',
     # 'username:password@localhost:6801#group',
-    ('', '', '101.132.73.82', '6801', 'st-test-01'),
+    ('', '', '47.100.165.43', '6801', 'st-test-02'),
 ]
 
 # If both ScrapydWeb and one of your Scrapyd servers run on the same machine,
