@@ -15,3 +15,9 @@ SQLAlchemy >= 1.2.15
 selenium
 fake-useragent
 lxml
+scrapy-redis
+pymongo
+pymysql
+zope.interface
+w3lib
+service-identity
